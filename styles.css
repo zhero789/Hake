@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+      font-family: Arial, sans-serif;
+        background: #f1f1f1;
+        }
+
+        .container {
+          padding: 10px;
+          }
+
+          .box {
+            background: #ffffff;
+              padding: 15px;
+                margin-bottom: 15px;
+                  border-radius: 5px;
+                  }
+
+                  h2 {
+                    margin-top: 0;
+                    }
+
+                    input {
+                      width: 100%;
+                        padding: 8px;
+                          margin: 5px 0;
+                          }
+
+                          button {
+                            width: 100%;
+                              padding: 10px;
+                                background: #000;
+                                  color: #fff;
+                                    border: none;
+                                      margin-top: 10px;
+                                      }
+
+                                      .ad {
+                                        background: #dcdcdc;
+                                          text-align: center;
+                                            padding: 10px;
+                                              margin: 10px 0;
+                                              }
+
+                                              .aff-btn {
+                                                display: block;
+                                                  background: #e60000;
+                                                    color: #fff;
+                                                      padding: 10px;
+                                                        text-align: center;
+                                                          text-decoration: none;
+                                                            margin: 10px 0;
+                                                            }
+
+                                                            .sticky-ad {
+                                                              position: fixed;
+                                                                bottom: 0;
+                                                                  width: 100%;
+                                                                    background: #cccccc;
+                                                                      text-align: center;
+                                                                        padding: 8px;
+                                                                        }
+
+                                                                        footer {
+                                                                          text-align: center;
+                                                                            padding: 15px;
+                                                                              margin-bottom: 50px;
+                                                                              }
